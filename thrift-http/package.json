@@ -34,7 +34,7 @@
   "dependencies": {
     "node-int64": "~0.4.0",
     "q": "1.0.x",
-    "ws": "~0.4.32"
+    "ws": "~7.2.1"
   },
   "deprecated": false,
   "description": "node.js bindings for the Apache Thrift RPC system, http supported",
